@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "app.naomi24.ua"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. naomi24.ua</name>
+    <name>naomi24.ua</name>
 
     <description>
         Интернет-магазин косметики
